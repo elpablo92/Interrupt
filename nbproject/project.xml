@@ -6,7 +6,7 @@
             <name>RB0</name>
             <creation-uuid>3adb5b3e-2b7c-40d0-b900-68bfec712759</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions/>
+            <c-extensions>c</c-extensions>
             <cpp-extensions/>
             <header-extensions>h</header-extensions>
             <asminc-extensions/>
